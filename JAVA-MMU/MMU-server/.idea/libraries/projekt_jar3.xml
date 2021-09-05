@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="projekt_jar3">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/project/out/artifacts/projekt_jar3" />
+      <root url="jar://$PROJECT_DIR$/gson-2.8.6.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://$PROJECT_DIR$/project/out/artifacts/projekt_jar3" />
+    </SOURCES>
+    <jarDirectory url="file://$PROJECT_DIR$/project/out/artifacts/projekt_jar3" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/project/out/artifacts/projekt_jar3" recursive="false" type="SOURCES" />
+  </library>
+</component>
